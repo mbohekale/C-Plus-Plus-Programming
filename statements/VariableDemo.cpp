@@ -6,9 +6,17 @@ using namespace std;
 
 int main()
 {
+	//if the age is greater than 20 0r less than 30
+	//if(age>20 && age<30)	
+	//if the age is equals to 20
+	//if(age==20)	
 	//if the age is greater than or equals to
+	//if(age>=20)
 	//if the age is less than or equals to
-	//if the age is greater than and  
+	//if(age<=20)	
+	//if the age is greater than and is equals to
+	//if(age>=20 || age==20)
+	
 	int age;
 	cout << "Please enter your age : "<<endl;
 	cin >> age;
